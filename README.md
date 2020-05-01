@@ -20,5 +20,5 @@ jobs:
     - uses: actions/checkout@v1
     - uses: restqa/restqa-action@0.0.1
       with:
-        path: 'k8s/*'
+        path: 'test/'
 ```
