@@ -1,0 +1,16 @@
+name: 'RestQa'
+author: 'RestQa Labs'
+branding:
+  icon: 'chevron-right'
+  color: 'purple'
+description: "A GitHub action to run your RestQa project's test automation suite"
+inputs:
+  path: 
+   description: 'Specify path to folder where the test are located'
+   required: false
+   default: '.'
+runs:
+  using: 'docker'
+  image: 'restqa/restqa'
+  args:
+    - ${{ inputs.path }}
