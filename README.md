@@ -9,12 +9,12 @@ This action runs in the [RestQa](https://hub.docker.com/repository/docker/restqa
 If all your feature files are in a folder called `tests`, run it like this:
 
 ```yaml
-name: CI
+name: E2E Test
 
 on: [push]
 
 jobs:
-  build:
+  RestQa:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
