@@ -11,6 +11,6 @@ inputs:
    default: '.'
 runs:
   using: 'docker'
-  image: 'restqa/restqa'
+  image: 'docker://restqa/restqa'
   args:
     - ${{ inputs.path }}
