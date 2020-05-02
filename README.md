@@ -1,14 +1,13 @@
 # RestQa Action
 
-<div>
+> A GitHub action to run your RestQa project's test automation suite
+
 <div align="center">
 	<br>
 	<img width="150" src="https://avatars1.githubusercontent.com/u/60838103?s=150&v=4" alt="RestQa">
 	<br>
 </div>
-![Logo Resqa]()
 
-> A GitHub action to run your RestQa project's test automation suite
 
 ## What is RestQa ? 
 
