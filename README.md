@@ -1,5 +1,7 @@
 # RestQa Action
 
+![Logo Resqa](https://avatars1.githubusercontent.com/u/60838103?s=150&v=4)
+
 > A GitHub action to run your RestQa project's test automation suite
 
 ## What is RestQa ? 
