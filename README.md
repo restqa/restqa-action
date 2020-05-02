@@ -5,6 +5,7 @@
 <div align="center">
 	<br>
 	<img width="150" src="https://avatars1.githubusercontent.com/u/60838103?s=150&v=4" alt="RestQa">
+  <p align="center">RestQa</p>
 	<br>
 </div>
 
