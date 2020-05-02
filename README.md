@@ -2,6 +2,11 @@
 
 > A GitHub action to run your RestQa project's test automation suite
 
+## What is RestQa ? 
+
+Restqa is an open automation framework based on Gherkin.
+A few step and your Test automation framework is setup. No dependency the framework is ready to be plug to all your project components
+
 ## Usage
 
 This action runs in the [RestQa](https://hub.docker.com/repository/docker/restqa/restqa) container.
@@ -22,3 +27,20 @@ jobs:
       with:
         path: 'test/'
 ```
+
+### References
+
+* [RestQa](http://www.restqa.io)
+* [RestQa Organization](https://github.com/restqa)
+
+### Keywords
+
+* test automation
+* Gherkin
+* Cucumber
+* End to End
+* E2E
+* Quality assurance
+* QA
+* Continuous integration
+  
